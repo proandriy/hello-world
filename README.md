@@ -1,2 +1,2 @@
 # hello-world
-test repository to get to know
+test repository to get to know GitHub
